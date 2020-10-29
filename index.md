@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Las contraseñas de Unizar como estudiante
 
-You can use the [editor on GitHub](https://github.com/victormonty-geo/unizar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## El NIP y la **Contraseña Administrativa** (**la contraseña maestra**, para el Moodle/ADD, para el registro electrónico...)
+Si se saben, pero se quiere modificar la contraseña:
+> [identidad.unizar.es](https://identidad.unizar.es/)
+> \>_(arriba a la izquierda)_ **"Cambio de contraseña"**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Si se han olvidado uno o ambos: [Soporte informático ayudICa Unizar: Recordar NIP y contraseña administrativa](https://ayudica.unizar.es/otrs/public.pl?Action=PublicFAQZoom;ItemID=454;)
 
-### Markdown
+## La **Contraseña de Google** (la contraseña del correo de los estudiantes)
+_Necesario previamente: conocer el **NIP** y la **Contraseña Administrativa**_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para crearla o modificarla las veces que se quiera:
+> [portalcorreo.unizar.es](https://portalcorreo.unizar.es/)
+> \> _(a la izquierda)_ **"Contraseña Google Apps"**
 
-```markdown
-Syntax highlighted code block
+## La **Contraseña de Servicios** (la contraseña para el Wifi, VPN _y alguna web de Unizar que lo pida expresamente_)
+_Necesario previamente: conocer el **NIP** y la **Contraseña Administrativa**_
 
-# Header 1
-## Header 2
-### Header 3
+Para crearla o modificarla las veces que se quiera:
+> [portalcorreo.unizar.es](https://portalcorreo.unizar.es/)
+> \> _(a la izquierda)_ **"Contraseña servicios U.Z."**
 
-- Bulleted
-- List
+## Acceso a la web de la Biblioteca (el **Código de Barras** y la **Contraseña/PIN de Biblioteca**)
+PENDIENTE()
 
-1. Numbered
-2. List
+# Para personalizar las cuentas
+## Moodle
+### Poner tu foto en el usuario
+> [moodle.unizar.es](https://moodle.unizar.es/add/)
+> \> _(arriba a la derecha)_ poner el ratón SIN CLICAR sobre **tu nombre** (tiene un cuadrado a la izquierda y una flecha a la derecha)
+> \> _(en el menú que aparece debajo)_ poner el ratón SIN CLICAR sobre **"Preferencias"**
+> \> _(en el menú que aparece a la izquierda)_ pulsar en **"Editar perfil"**
+> \> _(bajando la pantalla hacia abajo)_ en la sección **"Imagen del usuario"**, aparece **"Imagen nueva"** con un recuadro a la derecha con bastantes botones
+> en ese recuadro de la derecha, pulsa en la **flecha azul hacia abajo que hay en su centro**
+> \> _(en el nuevo menú que aparece sobre el resto de la página)_ pulsa **"Examinar..."**
+> \> elige la foto que quieras que tengas en tu ordenador/móvil y dale a aceptar (o similar, depende de tu dispositivo)
+> \> _(el botón azul que hay abajo)_ pulsa en **"Subir este archivo"**
+> \> _(otro botón azul que aparece abajo)_ pulsa en **"Actualizar información personal"**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Google
+### Poner tu nombre completo y tu foto en el usuario
+Puede que en varios momentos te vuelva a indicar que inicies sesión o que confirmes tu contraseña.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Inicia sesión con **==TU_NIP==@unizar.es** como usuario y tu **Contraseña de Google**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/victormonty-geo/unizar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> [myaccount.google.com/personal-info](https://myaccount.google.com/personal-info)
+> \> _(arriba a la derecha)_ pulsa en el círculo de color (puede tener una imagen, una letra o un número)
+> \> _(en el menú que aparece debajo)_ comprueba que estás en la cuenta de Unizar y no en una tuya personal:
+> verifica que encima de donde pone **"Gestionar tu cuenta de Google"** aparece **==TU_NIP==@unizar.es** (si aparece, está bien, continúa)
+> > si **NO** aparece **==TU_NIP==@unizar.es** y aparece otro correo electrónico:
+> > > si aparece más abajo **==TU_NIP==@unizar.es**, selecciónalo
+> > > si **NO** aparece más abajo **==TU_NIP==@unizar.es**, selecciona **"Añadir otra cuenta"**, inicia sesión y vuelve a empezar
+> \> actualiza la página (F5)
+> \> PENDIENTE(): puedes modificar la FOTO y el NOMBRE (y APELLIDOS) seleccionándolos
