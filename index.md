@@ -1,27 +1,27 @@
 # Las contraseñas de Unizar como estudiante
 
-## El NIP y la **Contraseña Administrativa** <small>(**la contraseña maestra**, para el Moodle/ADD, para el registro electrónico...)</small>
+## El NIP y la **Contraseña Administrativa** <span style="font-size:medium">(**la contraseña maestra**, para el Moodle/ADD, para el registro electrónico...)</span>
 Si se saben, pero se quiere modificar la contraseña:  
 > [identidad.unizar.es](https://identidad.unizar.es/)  
 > \>_(arriba a la izquierda)_ **"Cambio de contraseña"**  
 
 Si se han olvidado uno o ambos: [Soporte informático ayudICa Unizar: Recordar NIP y contraseña administrativa](https://ayudica.unizar.es/otrs/public.pl?Action=PublicFAQZoom;ItemID=454;)
 
-## La **Contraseña de Google** <small>(la contraseña del correo de los estudiantes)</small>
+## La **Contraseña de Google** <span style="font-size:medium">(la contraseña del correo de los estudiantes)</span>
 _Necesario previamente: conocer el **NIP** y la **Contraseña Administrativa**_
 
 Para crearla o modificarla las veces que se quiera:  
 > [portalcorreo.unizar.es](https://portalcorreo.unizar.es/)  
 > \> _(a la izquierda)_ **"Contraseña Google Apps"**  
 
-## La **Contraseña de Servicios** <small>(la contraseña para el Wifi, VPN _y alguna web de Unizar que lo pida expresamente_)</small>
+## La **Contraseña de Servicios** <span style="font-size:medium">(la contraseña para el Wifi, VPN _y alguna web de Unizar que lo pida expresamente_)</span>
 _Necesario previamente: conocer el **NIP** y la **Contraseña Administrativa**_
 
 Para crearla o modificarla las veces que se quiera:  
-> [portalcorreo.unizar.es](https://portalcorreo.unizar.es/)  
+> [portalcorreo.unizar.es](https: //portalcorreo.unizar.es/)  
 > \> _(a la izquierda)_ **"Contraseña servicios U.Z."**  
 
-## Acceso a la web de la Biblioteca <small>(el **Código de Barras** y la **Contraseña/PIN de Biblioteca**)</small>
+## Acceso a la web de la Biblioteca <span style="font-size:medium">(el **Código de Barras** y la **Contraseña/PIN de Biblioteca**)</span>
 PENDIENTE()
 
 # Para personalizar las cuentas
@@ -52,6 +52,6 @@ Inicia sesión con **<span style="color:red">TU_NIP</span>@unizar.es** como usua
 > > si **NO** aparece **<span style="color:red">TU_NIP</span>@unizar.es** y aparece otro correo electrónico:  
 > > > si aparece más abajo **<span style="color:red">TU_NIP</span>@unizar.es**, selecciónalo  
 > > > si **NO** aparece más abajo **<span style="color:red">TU_NIP</span>@unizar.es**, selecciona **"Añadir otra cuenta"**, inicia sesión y vuelve a empezar  
-
+> 
 > \> actualiza la página (F5)  
 > \> PENDIENTE(): puedes modificar la FOTO y el NOMBRE (y APELLIDOS) seleccionándolos  
